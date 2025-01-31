@@ -1,0 +1,20 @@
+body {
+  background-color: #fffff0;
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+h1 {
+  color: #fffff0;
+  background-color: #2f4f4f;
+  padding: 8px 0;
+  text-align: center;
+}
+
+h2, strong {
+  color: #1c2f2f;
+}
+
+.content {
+  max-width: 960px;
+  margin: auto;
+}
