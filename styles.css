@@ -18,13 +18,24 @@ p {
   display: block;
 }
 
-.thumbnail-row {
+.content {
+  max-width: 960px;
+  margin: auto;
+}
+
+.recipe-link:hover {
+  background-color: #ffffff;
+  border-color: #4c7f7f;
+}
+
+.recipe-link {
   display: inline-block;
   margin: 8px;
   padding: 8px;
+  background-color: #ffffd7;
   border: 1px solid;
   border-radius: 6px;
-  border-color: #1c2f2f;
+  border-color: #2f4f4f;
 }
 
 .link-img {
@@ -35,9 +46,4 @@ p {
 .link-text {
   display: block;
   text-align: center;
-}
-
-.content {
-  max-width: 960px;
-  margin: auto;
 }
