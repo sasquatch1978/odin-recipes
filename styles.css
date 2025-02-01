@@ -1,17 +1,17 @@
 body {
-  background-color: #fffff0;
+  background-color: #d6c9c2;
   font-family: Helvetica, Arial, sans-serif;
 }
 
 h1 {
-  color: #fffff0;
-  background-color: #2f4f4f;
+  color: #d6c9c2;
+  background-color: #322e2b;
   padding: 8px 0;
   text-align: center;
 }
 
 h2, strong {
-  color: #1c2f2f;
+  color: #24211f;
 }
 
 p {
@@ -29,18 +29,18 @@ p {
 }
 
 .recipe-link:hover {
-  background-color: #ffffff;
-  border-color: #4c7f7f;
+  border-color: #24211f;
+  background-color: #ebe4e1;
 }
 
 .recipe-link {
   display: inline-block;
   margin: 8px;
   padding: 8px;
-  background-color: #ffffd7;
+  background-color: #e0d6d2;
   border: 1px solid;
   border-radius: 6px;
-  border-color: #2f4f4f;
+  border-color: #c2ada4;
 }
 
 .link-img {
